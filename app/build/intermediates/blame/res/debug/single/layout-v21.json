@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/amien/.android/build-cache/d1bdaa73ff30b1743e625c3dbb7e7180c27673cf/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/amien/.android/build-cache/d1bdaa73ff30b1743e625c3dbb7e7180c27673cf/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/amien/.android/build-cache/d1bdaa73ff30b1743e625c3dbb7e7180c27673cf/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/amien/.android/build-cache/d1bdaa73ff30b1743e625c3dbb7e7180c27673cf/output/res/layout-v21/notification_action.xml"
+    }
+]

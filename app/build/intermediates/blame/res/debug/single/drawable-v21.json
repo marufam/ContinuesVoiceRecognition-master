@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/amien/.android/build-cache/d1bdaa73ff30b1743e625c3dbb7e7180c27673cf/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/amien/.android/build-cache/373fc79bd0d0463f5b5a68b4ce94227813f1da1a/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/amien/.android/build-cache/373fc79bd0d0463f5b5a68b4ce94227813f1da1a/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/amien/.android/build-cache/d1bdaa73ff30b1743e625c3dbb7e7180c27673cf/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/amien/.android/build-cache/ae509259031b0f62c958420ba676089fdab168fc/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/amien/.android/build-cache/ae509259031b0f62c958420ba676089fdab168fc/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/amien/.android/build-cache/373fc79bd0d0463f5b5a68b4ce94227813f1da1a/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/amien/.android/build-cache/373fc79bd0d0463f5b5a68b4ce94227813f1da1a/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

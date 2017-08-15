@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/home/amien/.android/build-cache/ae509259031b0f62c958420ba676089fdab168fc/output/res/values-hdpi/values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 565
+                    }
+                }
+            }
+        ]
+    }
+]

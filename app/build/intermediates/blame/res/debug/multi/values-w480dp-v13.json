@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/home/amien/.android/build-cache/ae509259031b0f62c958420ba676089fdab168fc/output/res/values-w480dp/values-w480dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 61,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/amien/.android/build-cache/ae509259031b0f62c958420ba676089fdab168fc/output/res/values-w480dp/values-w480dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 71,
+                        "endOffset": 653
+                    }
+                }
+            }
+        ]
+    }
+]

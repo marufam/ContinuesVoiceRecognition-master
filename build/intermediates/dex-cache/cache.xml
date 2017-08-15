@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_356e65214cfded115bd2e0ef81cf81ef677cea80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/amien/2CFC62CCFC62903E/android/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_9714055681e7bc8bba0058fccaa42ca7185b5fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/1232d8bd8730bd60bcaeae0927ddc8485849ab12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/classes_aac9bf329bd28f9c799aed8edce6f71196517493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_9bb3e2e33536375d53fa5b31970f73dc8d3fdf07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/ae509259031b0f62c958420ba676089fdab168fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/classes_0b0ee05b6907911dd2ee47eabda5b1476d5c973d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_d6e79c1261118a6a24f5c59e88a08548f3c9248f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/2ec76778fcd5bfca6738271570aeb973c4a5fa7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/classes_ecb89055b63262f7a7ed1cf992b3c56760e367ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_6d54054608d242f8f35c18ab40bda322b7ea2d4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/amien/2CFC62CCFC62903E/android/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0_922048224d1dca1a0bea0d873fad943268213324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.android/build-cache/2ec76778fcd5bfca6738271570aeb973c4a5fa7a/output/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0_4ba2f91c76f71a1b1e6854b062bfe813aafb36c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_1f60f4e95f25215444efe0acf49070fe4b134091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/gson-2.6.2_c91aa58d9d9a289d36978cd9d9d90eb0fb0a534d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/okio-1.6.0_34a863ae0dfa3493cd3f711bcf783eb5fee2b782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amien/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/amien/Documents/Untitled Folder 3/ContinuesVoiceRecognition-master/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_216164d540a3afa90adb8c50459c48cb18473ee4.jar" />
+    </item>
+
+</items>
